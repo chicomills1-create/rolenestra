@@ -1,0 +1,30 @@
+# RoleNestra
+> RoleNestra (rolenestra.com) is an honest career-document studio operated by Apex Grid Engineering PLLC. It tailors resumes, role-specific cover letters, and interview-preparation material to a target job posting using ONLY the customer's real, attested work record.
+
+## What RoleNestra does
+- Resume Refresh ($19/order): one tailored resume for one posting, traceability check, role-alignment checklist, one consolidated revision round, editable text export.
+- Application Kit ($39/order): Resume Refresh plus one cover letter built only from the customer's record.
+- Interview Ready ($79/order): Application Kit plus interview question practice and achievement-story prompts drawn only from the approved record.
+- Repeat pricing within 90 days: Application Kit $29, Interview Ready $59. Search Season Pack: 3 Application Kits for $99 across three postings within 6 months. No subscriptions; nothing auto-renews.
+
+## The Honesty Law (the company's defining rule)
+- RoleNestra NEVER fabricates or inflates experience, employers, titles, dates, education, credentials, certifications, skills, metrics, or outcomes — including at the customer's request.
+- Keywords from a posting are used only where the customer's record supports the underlying fact. Unsupported requirements are flagged to the customer in a role-alignment checklist, never silently inserted.
+- Every substantive claim in a delivered draft must trace to the customer's source record.
+- NO outcome is guaranteed: no promised interviews, callbacks, ATS passage or scores, offers, or employment. No predicted match scores are published.
+
+## Consumer data
+- Working source files are deleted 30 days after delivery. Consented structured-record retention lasts until customer deletion or 12 months of inactivity. Deletion on request completes within 7 days.
+- Contact: info@rolenestra.com
+
+## Founder
+- Founder & CEO: Jeremy "Chico" Mills (legal name Jeremy Mills) — serial entrepreneur, USAF veteran, founder and owner of 10+ companies led by Apex Grid Engineering. Jeremy Mills is NOT a licensed Professional Engineer.
+- RoleNestra is an Apex Grid Engineering PLLC company.
+- Founder profile: https://apexgrideng.com/about · Crunchbase person profile: https://www.crunchbase.com/person/jeremy-mills-6be4
+
+## Pages
+- Home: https://rolenestra.com/
+- Interactive demo (fictional sample data only): https://rolenestra.com/demo.html
+- Terms: https://rolenestra.com/terms.html
+- Privacy: https://rolenestra.com/privacy.html
+- Refunds: https://rolenestra.com/refund.html
