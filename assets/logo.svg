@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 96" role="img" aria-label="RoleNestra logo">
+  <rect x="4" y="8" width="80" height="80" rx="18" fill="#102f50"/>
+  <g transform="translate(17 17)" fill="none" stroke="#ffffff" stroke-width="3">
+    <rect x="8" y="2" width="28" height="40" rx="4"/>
+    <path d="M14 12h16M14 22h16M14 32h10" stroke-linecap="round"/>
+    <path d="m33 33 4 4 7-9" stroke="#5eead4" stroke-linecap="round"/>
+  </g>
+  <text x="102" y="62" font-family="Georgia, 'Times New Roman', serif" font-size="44" fill="#102f50">Role<tspan fill="#0f766e">Nestra</tspan></text>
+</svg>

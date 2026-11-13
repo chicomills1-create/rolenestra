@@ -1,0 +1,11 @@
+{
+  "brand": "RoleNestra",
+  "domain_status": "OWNED_CONFIRMED_GODADDY_4222478546_2026-11-13",
+  "payment_status": "DISABLED_UNTIL_PAYMENTS_LEG_CERTIFIES",
+  "demo_data": "FICTIONAL",
+  "environment": "LAUNCH_BUILD",
+  "backend_url": null,
+  "requested_domain": "rolenestra.com",
+  "domain_owned": true,
+  "checkout_status": "STRIPE_TEST_MODE_PROOFS_OWED"
+}
