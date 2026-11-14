@@ -19,4 +19,11 @@
 .resume-page{width:100%;max-width:300px;height:auto;min-height:380px;transform:rotate(3deg)}
 .hero-scene{padding:16px}
 }
+
+/* RoleNestra mobile cure v2 2026-11-13: combo-class sections keep horizontal padding; hero pills off at phone width */
+@media(max-width:700px){
+.section.wrap,.faq-wrap.wrap,.demo-call.wrap{padding-left:20px;padding-right:20px}
+#founder{padding-left:20px!important;padding-right:20px!important}
+.floating{display:none}
+}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}}
