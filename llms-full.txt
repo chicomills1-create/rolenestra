@@ -1,0 +1,96 @@
+# RoleNestra — Full Listing (llms-full.txt)
+
+> RoleNestra is a career-document drafting studio operated by Apex Grid Engineering
+> PLLC. It tailors resumes, role-specific cover letters, and interview-preparation
+> material to a target job posting using only the customer's real work record.
+> Website: https://rolenestra.com · Contact: info@rolenestra.com · Queen Creek,
+> Arizona, United States.
+
+## What RoleNestra does
+RoleNestra reads the job posting a customer is targeting and re-expresses the
+customer's real work history — experience, employers, titles, dates, education,
+credentials, and results the customer actually has — so the documents speak to
+that posting clearly. Every order ships with a role-alignment checklist that
+flags, by name, any posting requirement the customer's record does not support.
+
+## The Honesty Law (the studio's founding rule)
+- RoleNestra NEVER fabricates experience, employers, titles, dates, education,
+  credentials, certifications, or metrics — even if a customer asks it to. The
+  unsupported element is refused and an honest alternative is offered.
+- Posting keywords are matched only where the customer's record supports them.
+  Unsupported items are flagged in the alignment checklist, never silently added.
+- RoleNestra makes NO outcome promises: no guaranteed interviews, callbacks,
+  ATS passage, scores, or employment.
+- Interview material is built only from the customer's approved record; practice
+  stories are labelled as practice, never presented as the customer's history.
+- Customer records are processed with AI assistance under human-supervised QA;
+  records are never sold, shared, or used across brands.
+
+## Services and prices (test prices, one-time payments, USD)
+- Resume Refresh — $19: one tailored resume for one target posting, trace check,
+  role-alignment checklist, one consolidated revision round.
+- Application Kit — $39: Resume Refresh plus a role-specific cover letter.
+- Interview Ready — $79: Application Kit plus interview-preparation material
+  built from the approved record only.
+- Repeat within 90 days: Application Kit $29 · Interview Ready $59
+  (eligibility-checked against order history; not public price links).
+- Search Season Pack — $99: three prepaid Application Kits, redeemable across
+  three postings within 6 months; unstarted kits refundable pro-rata at $33/kit.
+  The Pack is a prepaid bundle, not a subscription; nothing auto-renews.
+- Referral: $5 off for the referred customer, $10 product credit for the referrer
+  (product credit only, never cash; paid after delivery and the refund hold).
+- No discount stacking.
+
+## Refund policy (summary — full policy at https://rolenestra.com/refund.html)
+- Full refund if an order is cancelled before substantive fulfilment begins.
+- A fabrication or honesty defect in a delivered order is the customer's choice:
+  free correction of all documents, or a full refund.
+- Statutory consumer rights are never excluded by the policy.
+
+## Customer data (summary — full policy at https://rolenestra.com/privacy.html)
+- Minimum collection. Intake warns customers not to send Social Security numbers,
+  ID numbers, dates of birth, financial details, or passwords; if such data is
+  found it is removed and the customer is told.
+- Working files are deleted 30 days after delivery. Deletion on request is
+  completed within 7 days and confirmed to the customer.
+- Records are never sold, shared, or cross-used.
+
+## What RoleNestra is not
+- Not a recruitment agency. It does not submit applications, contact employers,
+  or apply to jobs for customers — applications stay under the job seeker's
+  direct control.
+- Not a credential verifier. Source conflicts are treated as unresolved facts and
+  raised with the customer; RoleNestra never implies employer, credential, or
+  background-check verification.
+
+## Frequently asked questions (answered directly)
+- Will RoleNestra apply to jobs for me? No. The studio drafts career materials;
+  applications remain under the job seeker's direct control.
+- Does this guarantee interviews or ATS success? No. Hiring outcomes and
+  screening systems vary; no ranking, interview, or employment result is
+  guaranteed.
+- Can it invent experience to improve my chances? No. Every education,
+  experience, and certification claim must be supported by information the
+  customer provides and approves.
+- Should I enter personal information in the demo? No. The demo uses fictional
+  sample resumes; do not enter personal, sensitive, or confidential information
+  into a public preview.
+
+## Founder
+Jeremy "Chico" Mills — Founder & CEO of RoleNestra. Serial entrepreneur · USAF
+veteran. Jeremy Mills is the founder and owner of 10+ companies, led by Apex
+Grid Engineering. He is not a licensed Professional Engineer; Apex's engineering
+licensure is the firm's, through its named licensed-PE qualifiers.
+Founder profile: https://apexgrideng.com/about
+Crunchbase: https://www.crunchbase.com/organization/rolenestra ·
+https://www.crunchbase.com/person/jeremy-mills-6be4
+Operations are coordinated on Muse, our AI operations system, directed by
+Jeremy Mills.
+
+## Pages
+- Home: https://rolenestra.com/
+- Demo (fictional sample, labelled): https://rolenestra.com/demo.html
+- Terms: https://rolenestra.com/terms.html
+- Privacy: https://rolenestra.com/privacy.html
+- Refunds: https://rolenestra.com/refund.html
+- Policies index: https://rolenestra.com/legal.html
