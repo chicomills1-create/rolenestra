@@ -28,3 +28,4 @@
 - Terms: https://rolenestra.com/terms.html
 - Privacy: https://rolenestra.com/privacy.html
 - Refunds: https://rolenestra.com/refund.html
+- Policies index: https://rolenestra.com/legal.html
